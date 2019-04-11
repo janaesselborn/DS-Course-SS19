@@ -1,7 +1,7 @@
 # DS-Course-SS19
 Data Science SS19
 
-##Aufgaben
+## Aufgaben
 ### Python Excercise
 - helloworld.py
 - tictactoe.py
