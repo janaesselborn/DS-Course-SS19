@@ -3,5 +3,5 @@ Data Science SS19
 
 ## Aufgaben
 ### Python Excercise
-- helloworld.py
-- tictactoe.py
+- Exercise1_helloworld.py
+- Exercise2_tictactoe.py
