@@ -11,5 +11,5 @@ Data Science SS19
 - Exercise2_Pandas.ipynb
 
 ### Week4
-- Exercise 1: Domingo Paper
+- Exercise1_DomingoPaper.md
 - Exercise2_Data.ipynb
