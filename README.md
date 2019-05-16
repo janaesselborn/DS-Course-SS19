@@ -13,3 +13,7 @@ Data Science SS19
 ### Week4
 - Exercise1_DomingoPaper.md
 - Exercise2_Data.ipynb
+
+### Week5
+- Exercise1_LogisticRegression.ipynb
+- Exercise2_LogisticRegression.ipynb
