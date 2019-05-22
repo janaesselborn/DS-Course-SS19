@@ -17,3 +17,7 @@ Data Science SS19
 ### Week5
 - Exercise1_LogisticRegression.ipynb
 - Exercise2_LogisticRegression.ipynb
+
+### Week6
+- Exercise1_KNNClassifier.ipynb
+- Exercise2_FeatureEngineering.ipynb
