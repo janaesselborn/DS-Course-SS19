@@ -21,3 +21,7 @@ Data Science SS19
 ### Week6
 - Exercise1_KNNClassifier.ipynb
 - Exercise2_FeatureEngineering.ipynb
+
+### Week7
+- Exercise1_KNNFromScratch.ipynb
+- Exercise2_FeatureEngineering.ipynb
