@@ -25,3 +25,7 @@ Data Science SS19
 ### Week7
 - Exercise1_KNNFromScratch.ipynb
 - Exercise2_DecisionTreeRandomForest.ipynb
+
+### Week8
+- Exercise1_GiniImpurity.ipynb
+- Exercise2_CleaningData.ipynb
