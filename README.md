@@ -29,3 +29,7 @@ Data Science SS19
 ### Week8
 - Exercise1_GiniImpurity.ipynb
 - Exercise2_CleaningData.ipynb
+
+### Week9
+- Exercise1_ROC.ipynb
+- Exercise2_ROCFromScratch.ipynb
