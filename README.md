@@ -33,3 +33,7 @@ Data Science SS19
 ### Week9
 - Exercise1_ROC.ipynb
 - Exercise2_ROCFromScratch.ipynb
+
+### Week 10
+- Exercise1_CrossValidation.ipynb	
+- Exercise2_ImbalancedData.ipynb
